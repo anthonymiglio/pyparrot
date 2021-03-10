@@ -3388,7 +3388,7 @@
 				desc="Set the antiflickering mode.\n
 				If auto, the drone will detect when flickers appears on the video and trigger the antiflickering.\n
 				In this case, this electric frequency it will use will be the one specified in the event [ElectricFrequency](#1-29-0).\n
-				Forcing the antiflickering (FixedFiftyHertz or FixedFiftyHertz) can reduce luminosity of the video."
+				Forcing the antiflickering (FixedFiftyHertz or FixedSixtyHertz) can reduce luminosity of the video."
 				support="0901;090c"
 				result="The antiflickering mode is set.\n
 				Then, event [AntiflickeringMode](#1-30-1) is triggered."/>
